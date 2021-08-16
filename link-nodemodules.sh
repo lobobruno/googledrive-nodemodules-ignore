@@ -1,4 +1,4 @@
-
+# Check https://github.com/lobobruno/googledrive-nodemodules-ignore
 TMP_DIR=/tmp
 PROJECT=$(pwd | rev | cut -f1 -d'/' - | rev)
 PROJECT_DIR=$(pwd)

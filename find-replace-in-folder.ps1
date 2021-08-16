@@ -1,3 +1,4 @@
+# Check https://github.com/lobobruno/googledrive-nodemodules-ignore
 # Goes through the entire googledrive folder and replaces the node_modules with a symbolik link
 # Set the following variables
 
