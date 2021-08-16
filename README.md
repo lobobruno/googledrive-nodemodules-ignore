@@ -26,7 +26,7 @@ It place the node_modules folder outside the Google Drive and create a symbolic 
 - [**find-replace-in-folder.ps1**](find-replace-in-folder.ps1)
   For Windows: Use it the go through the entire Google Drive and replace all node_modules with a symbolic link to your project directory.
   ***
-- [**link-nodemodules.cmd**](link-nodemodules.cmd)
+- [**link-nodemodules.bat**](link-nodemodules.bat)
   For Windows: Use it when creating a new project. Place the script inside the project folder and run it.
   It will create the node_modules symbolic link for that project.
 
